@@ -1,0 +1,1573 @@
+2025-01-05 10:45:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 10:45:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 10:45:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 10:45:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 10:45:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 10:45:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 10:45:42 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 10:45:42 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 10:45:42 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 10:45:42 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 10:45:42 INFO  DataDrivenTests:35 - Entering email: laks@yahoo.com
+2025-01-05 10:45:42 INFO  DataDrivenTests:38 - Entering password: xyz
+2025-01-05 10:45:42 INFO  DataDrivenTests:41 - Clicking Login button...
+2025-01-05 10:45:43 INFO  DataDrivenTests:43 - *********5d*******
+2025-01-05 10:45:53 INFO  DataDrivenTests:50 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ee6ab88af8279c86e34ada397518c9fa, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54845}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54845/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ee6ab88af8279c86e34ada397518c9fa
+2025-01-05 11:09:15 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:09:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:09:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:09:21 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:09:21 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:09:21 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:09:21 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:09:21 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:09:21 INFO  DataDrivenTests:35 - Entering email: laks@yahoo.com
+2025-01-05 11:09:21 INFO  DataDrivenTests:38 - Entering password: xyz
+2025-01-05 11:09:21 INFO  DataDrivenTests:41 - Clicking Login button...
+2025-01-05 11:09:22 INFO  DataDrivenTests:43 - *********5d*******
+2025-01-05 11:09:33 INFO  DataDrivenTests:51 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [84d1e8b349a259104785f2941f4b34c7, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60329}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60329/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 84d1e8b349a259104785f2941f4b34c7
+2025-01-05 11:21:09 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:21:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:21:13 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:21:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:21:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:21:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:21:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:21:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:21:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:21:14 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:21:14 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:21:14 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:21:14 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:21:14 INFO  DataDrivenTests:35 - Entering email: laks@yahoo.com
+2025-01-05 11:21:14 INFO  DataDrivenTests:38 - Entering password: xyz
+2025-01-05 11:21:14 INFO  DataDrivenTests:41 - Clicking Login button...
+2025-01-05 11:21:15 INFO  DataDrivenTests:43 - *********5d*******
+2025-01-05 11:21:25 INFO  DataDrivenTests:51 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6db152d2188d0a9f0c692b6f4d695273, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60762}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60762/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6db152d2188d0a9f0c692b6f4d695273
+2025-01-05 11:24:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:24:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:24:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:24:28 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:24:28 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:24:28 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:24:28 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:24:29 INFO  DataDrivenTests:35 - Entering email: laks@yahoo.com
+2025-01-05 11:24:29 INFO  DataDrivenTests:38 - Entering password: xyz
+2025-01-05 11:24:29 INFO  DataDrivenTests:41 - Clicking Login button...
+2025-01-05 11:24:29 INFO  DataDrivenTests:43 - *********5d*******
+2025-01-05 11:24:39 INFO  DataDrivenTests:81 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6809102c90f832c527c55dbc88cb1e08, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60961}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60961/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6809102c90f832c527c55dbc88cb1e08
+2025-01-05 11:24:39 INFO  DataDrivenTests:84 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:29:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:29:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:29:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:29:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:29:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:29:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:29:26 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:29:26 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:29:26 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:29:26 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:29:26 INFO  DataDrivenTests:34 - Entering email: laks@yahoo.com
+2025-01-05 11:29:26 INFO  DataDrivenTests:37 - Entering password: xyz
+2025-01-05 11:29:26 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:29:27 INFO  DataDrivenTests:42 - *********5d*******
+2025-01-05 11:29:37 INFO  DataDrivenTests:79 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [38c1670e7de151bf67a3f912fc857191, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61190}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61190/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 38c1670e7de151bf67a3f912fc857191
+2025-01-05 11:29:37 INFO  DataDrivenTests:82 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:30:35 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:30:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:30:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:30:40 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:30:40 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:30:40 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:30:40 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:30:40 INFO  DataDrivenTests:34 - Entering email: laks@yahoo.com
+2025-01-05 11:30:41 INFO  DataDrivenTests:37 - Entering password: xyz
+2025-01-05 11:30:41 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:30:51 INFO  DataDrivenTests:78 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [49af27433700c47f228da4278518a5a4, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61296}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61296/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 49af27433700c47f228da4278518a5a4
+2025-01-05 11:30:51 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:32:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:32:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:32:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:32:26 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:32:26 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:32:26 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:32:26 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:32:26 INFO  DataDrivenTests:34 - Entering email: laks@yahoo.com
+2025-01-05 11:32:26 INFO  DataDrivenTests:37 - Entering password: xyz
+2025-01-05 11:32:27 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:32:40 INFO  DataDrivenTests:78 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6e1e083422613659f5d60ebf6572835a, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61415}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61415/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e1e083422613659f5d60ebf6572835a
+2025-01-05 11:32:40 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:33:10 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:33:10 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:33:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:14 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:33:15 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:33:15 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:33:15 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:33:15 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:33:15 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:33:15 INFO  DataDrivenTests:34 - Entering email: laks@yahoo.com
+2025-01-05 11:33:15 INFO  DataDrivenTests:37 - Entering password: xyz
+2025-01-05 11:33:15 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:33:29 INFO  DataDrivenTests:78 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb79c4c3ef7277b5558a050afec2d0b9, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61522}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61522/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cb79c4c3ef7277b5558a050afec2d0b9
+2025-01-05 11:33:29 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:33:29 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:33:29 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:33:29 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:33:29 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:33:30 INFO  DataDrivenTests:34 - Entering email: laksh@yahoo.com
+2025-01-05 11:33:30 INFO  DataDrivenTests:37 - Entering password: Lakshmi
+2025-01-05 11:33:30 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:33:34 INFO  DataDrivenTests:46 - Target Page status: true
+2025-01-05 11:34:39 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:34:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:34:43 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:34:43 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:34:43 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:78 - ******no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [556bd6e3c03c5249eb1d2ea0ce644f7b, findElement {value=//span[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61645}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61645/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 556bd6e3c03c5249eb1d2ea0ce644f7b
+2025-01-05 11:34:44 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:34:44 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:78 - ******no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [556bd6e3c03c5249eb1d2ea0ce644f7b, findElement {value=//span[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61645}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61645/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 556bd6e3c03c5249eb1d2ea0ce644f7b
+2025-01-05 11:34:44 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:34:44 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:78 - ******no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [556bd6e3c03c5249eb1d2ea0ce644f7b, findElement {value=//span[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61645}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61645/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 556bd6e3c03c5249eb1d2ea0ce644f7b
+2025-01-05 11:34:44 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:34:44 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:78 - ******no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [556bd6e3c03c5249eb1d2ea0ce644f7b, findElement {value=//span[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61645}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61645/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 556bd6e3c03c5249eb1d2ea0ce644f7b
+2025-01-05 11:34:44 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:34:44 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:34:44 INFO  DataDrivenTests:78 - ******no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.205)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [556bd6e3c03c5249eb1d2ea0ce644f7b, findElement {value=//span[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61645}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61645/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 556bd6e3c03c5249eb1d2ea0ce644f7b
+2025-01-05 11:34:44 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:35:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:35:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:35:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:07 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:35:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:35:08 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:35:08 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:35:08 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:35:08 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:35:08 INFO  DataDrivenTests:34 - Entering email: pavanoltrainingg@gmail.com
+2025-01-05 11:35:09 INFO  DataDrivenTests:37 - Entering password: test@123
+2025-01-05 11:35:09 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:35:13 INFO  DataDrivenTests:46 - Target Page status: true
+2025-01-05 11:35:13 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:35:13 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:35:13 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:35:13 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:35:13 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:35:14 INFO  DataDrivenTests:34 - Entering email: lakshmi@yahoo.com
+2025-01-05 11:35:14 INFO  DataDrivenTests:37 - Entering password: Laxmi
+2025-01-05 11:35:14 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:35:18 INFO  DataDrivenTests:46 - Target Page status: true
+2025-01-05 11:35:18 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:35:18 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:35:18 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:35:18 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:35:18 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:35:19 INFO  DataDrivenTests:34 - Entering email: laksh@yahoo.com
+2025-01-05 11:35:19 INFO  DataDrivenTests:37 - Entering password: Lakshmi
+2025-01-05 11:35:19 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:35:23 INFO  DataDrivenTests:46 - Target Page status: true
+2025-01-05 11:35:24 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:35:24 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:35:24 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:35:24 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:35:24 INFO  DataDrivenTests:34 - Entering email: laks@yahoo.com
+2025-01-05 11:35:25 INFO  DataDrivenTests:37 - Entering password: xyz
+2025-01-05 11:35:25 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:35:39 INFO  DataDrivenTests:78 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f84c4e087cc5ec965ade4c36c60a5362, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61712}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61712/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f84c4e087cc5ec965ade4c36c60a5362
+2025-01-05 11:35:39 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:35:39 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:35:39 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:35:39 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:35:39 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:35:40 INFO  DataDrivenTests:34 - Entering email: abc123@gmail.com
+2025-01-05 11:35:40 INFO  DataDrivenTests:37 - Entering password: test@123
+2025-01-05 11:35:40 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:35:44 INFO  DataDrivenTests:46 - Target Page status: true
+2025-01-05 11:35:44 INFO  DataDrivenTests:81 - ***** Finished TC_003_LoginDDT ******
+2025-01-05 11:42:37 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:42:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:42:41 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:42:41 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:42:41 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:42:41 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:42:41 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:42:42 INFO  DataDrivenTests:34 - Entering email: pavanoltrainingg@gmail.com
+2025-01-05 11:42:42 INFO  DataDrivenTests:37 - Entering password: test@123
+2025-01-05 11:42:42 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:42:43 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:42:43 INFO  DataDrivenTests:80 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:42:43 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:42:43 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:42:43 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:42:43 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:42:43 INFO  DataDrivenTests:34 - Entering email: lakshmi@yahoo.com
+2025-01-05 11:42:43 INFO  DataDrivenTests:37 - Entering password: Laxmi
+2025-01-05 11:42:44 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:42:44 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:42:45 INFO  DataDrivenTests:80 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:42:45 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:42:45 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:42:45 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:42:45 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:42:45 INFO  DataDrivenTests:34 - Entering email: laksh@yahoo.com
+2025-01-05 11:42:45 INFO  DataDrivenTests:37 - Entering password: Lakshmi
+2025-01-05 11:42:45 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:42:46 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:42:46 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:42:46 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:42:46 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:42:46 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:42:47 INFO  DataDrivenTests:34 - Entering email: laks@yahoo.com
+2025-01-05 11:42:47 INFO  DataDrivenTests:37 - Entering password: xyz
+2025-01-05 11:42:47 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:42:57 INFO  DataDrivenTests:77 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3d3810b9f0a26908dfc3b2536cdb6d7, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62277}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62277/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3d3810b9f0a26908dfc3b2536cdb6d7
+2025-01-05 11:42:57 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:42:57 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:42:57 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:42:57 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:42:58 INFO  DataDrivenTests:34 - Entering email: abc123@gmail.com
+2025-01-05 11:42:58 INFO  DataDrivenTests:37 - Entering password: test@123
+2025-01-05 11:42:58 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:42:59 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:43:00 INFO  DataDrivenTests:80 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:44:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:44:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:44:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:44:26 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:44:26 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:44:26 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:44:26 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:44:27 INFO  DataDrivenTests:34 - Entering email: pavanoltrainingg@gmail.com
+2025-01-05 11:44:27 INFO  DataDrivenTests:37 - Entering password: test@123
+2025-01-05 11:44:27 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:44:28 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:44:28 INFO  DataDrivenTests:80 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:44:28 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:44:28 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:44:28 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:44:28 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:44:28 INFO  DataDrivenTests:34 - Entering email: lakshmi@yahoo.com
+2025-01-05 11:44:28 INFO  DataDrivenTests:37 - Entering password: Laxmi
+2025-01-05 11:44:29 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:44:29 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:44:30 INFO  DataDrivenTests:80 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:44:30 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:44:30 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:44:30 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:44:30 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:44:30 INFO  DataDrivenTests:34 - Entering email: laksh@yahoo.com
+2025-01-05 11:44:30 INFO  DataDrivenTests:37 - Entering password: Lakshmi
+2025-01-05 11:44:30 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:44:31 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:44:31 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:44:31 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:44:31 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:44:31 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:44:32 INFO  DataDrivenTests:34 - Entering email: laks@yahoo.com
+2025-01-05 11:44:32 INFO  DataDrivenTests:37 - Entering password: xyz
+2025-01-05 11:44:32 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:44:42 INFO  DataDrivenTests:77 - ******no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f27479bbc0c1b845a193d5ae69155685, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62407}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62407/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f27479bbc0c1b845a193d5ae69155685
+2025-01-05 11:44:42 INFO  DataDrivenTests:80 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:44:42 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:44:42 INFO  DataDrivenTests:21 - ***** stating TC_003_LoginDDT ******
+2025-01-05 11:44:42 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 11:44:42 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 11:44:43 INFO  DataDrivenTests:34 - Entering email: abc123@gmail.com
+2025-01-05 11:44:43 INFO  DataDrivenTests:37 - Entering password: test@123
+2025-01-05 11:44:44 INFO  DataDrivenTests:40 - Clicking Login button...
+2025-01-05 11:44:44 INFO  DataDrivenTests:45 - Target Page status: true
+2025-01-05 11:44:45 INFO  DataDrivenTests:80 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:46:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:46:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:46:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:46:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:46:40 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:46:40 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:46:40 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:46:40 INFO  DataDrivenTests:32 - Entering email: admin@myshopp.com
+2025-01-05 11:46:41 INFO  DataDrivenTests:35 - Entering password: admin123
+2025-01-05 11:46:41 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:46:42 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:46:42 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:46:42 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:46:42 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:46:42 INFO  DataDrivenTests:32 - Entering email: admin@mycart.com
+2025-01-05 11:46:42 INFO  DataDrivenTests:35 - Entering password: admin@123
+2025-01-05 11:46:42 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:46:43 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:46:44 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:46:44 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:46:44 INFO  DataDrivenTests:32 - Entering email: xyz@gmail.com
+2025-01-05 11:46:44 INFO  DataDrivenTests:35 - Entering password: qwerty@123
+2025-01-05 11:46:44 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:46:55 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1138820b7deeff1ccba33db21a5eaa4, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62564}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62564/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1138820b7deeff1ccba33db21a5eaa4
+2025-01-05 11:46:55 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:46:55 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:46:55 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:46:55 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:46:56 INFO  DataDrivenTests:32 - Entering email: pd0d9@yahoo.com
+2025-01-05 11:46:56 INFO  DataDrivenTests:35 - Entering password: xyz
+2025-01-05 11:46:56 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:47:06 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1138820b7deeff1ccba33db21a5eaa4, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62564}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62564/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1138820b7deeff1ccba33db21a5eaa4
+2025-01-05 11:47:06 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:47:06 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:47:06 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:47:07 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:47:07 INFO  DataDrivenTests:32 - Entering email: abc123@gmail.com
+2025-01-05 11:47:07 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 11:47:07 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:47:08 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:47:08 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:47:08 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:47:08 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:47:09 INFO  DataDrivenTests:32 - Entering email: 
+2025-01-05 11:47:09 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 11:47:09 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:47:20 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b1138820b7deeff1ccba33db21a5eaa4, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62564}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62564/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1138820b7deeff1ccba33db21a5eaa4
+2025-01-05 11:47:20 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:58:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 11:58:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 11:58:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 11:58:37 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:58:38 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:58:38 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:58:38 INFO  DataDrivenTests:32 - Entering email: admin@myshopp.com
+2025-01-05 11:58:38 INFO  DataDrivenTests:35 - Entering password: admin123
+2025-01-05 11:58:38 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:58:39 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:58:39 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:58:39 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:58:39 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:58:40 INFO  DataDrivenTests:32 - Entering email: admin@mycart.com
+2025-01-05 11:58:40 INFO  DataDrivenTests:35 - Entering password: admin@123
+2025-01-05 11:58:40 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:58:41 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:58:41 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:58:41 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:58:41 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:58:41 INFO  DataDrivenTests:32 - Entering email: xyz@gmail.com
+2025-01-05 11:58:41 INFO  DataDrivenTests:35 - Entering password: qwerty@123
+2025-01-05 11:58:41 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:58:52 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e1db90d971973880daf1f160883507ce, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62836}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62836/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1db90d971973880daf1f160883507ce
+2025-01-05 11:58:52 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:58:52 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:58:52 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:58:52 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:58:53 INFO  DataDrivenTests:32 - Entering email: pd0d9@yahoo.com
+2025-01-05 11:58:53 INFO  DataDrivenTests:35 - Entering password: xyz
+2025-01-05 11:58:54 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:59:04 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e1db90d971973880daf1f160883507ce, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62836}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62836/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1db90d971973880daf1f160883507ce
+2025-01-05 11:59:04 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:59:04 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:59:04 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:59:04 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:59:04 INFO  DataDrivenTests:32 - Entering email: abc123@gmail.com
+2025-01-05 11:59:05 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 11:59:05 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:59:06 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 11:59:06 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 11:59:06 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 11:59:06 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 11:59:06 INFO  DataDrivenTests:32 - Entering email: 
+2025-01-05 11:59:06 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 11:59:06 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 11:59:17 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e1db90d971973880daf1f160883507ce, findElement {using=xpath, value=//h2[text()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62836}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62836/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e1db90d971973880daf1f160883507ce
+2025-01-05 11:59:17 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:00:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 12:00:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:00:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:00:19 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:00:19 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:00:19 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:00:19 INFO  DataDrivenTests:32 - Entering email: admin@myshopp.com
+2025-01-05 12:00:19 INFO  DataDrivenTests:35 - Entering password: admin123
+2025-01-05 12:00:19 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:00:20 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:00:20 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:00:20 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:00:20 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:00:21 INFO  DataDrivenTests:32 - Entering email: admin@mycart.com
+2025-01-05 12:00:21 INFO  DataDrivenTests:35 - Entering password: admin@123
+2025-01-05 12:00:21 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:00:22 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:00:22 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:00:22 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:00:22 INFO  DataDrivenTests:32 - Entering email: xyz@gmail.com
+2025-01-05 12:00:22 INFO  DataDrivenTests:35 - Entering password: qwerty@123
+2025-01-05 12:00:23 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:00:33 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27187d551785fa65c93e27f12af24b17, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62922}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62922/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27187d551785fa65c93e27f12af24b17
+2025-01-05 12:00:33 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:00:33 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:00:33 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:00:33 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:00:34 INFO  DataDrivenTests:32 - Entering email: pd0d9@yahoo.com
+2025-01-05 12:00:34 INFO  DataDrivenTests:35 - Entering password: xyz
+2025-01-05 12:00:34 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:00:45 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27187d551785fa65c93e27f12af24b17, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62922}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62922/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27187d551785fa65c93e27f12af24b17
+2025-01-05 12:00:45 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:00:45 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:00:45 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:00:45 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:00:45 INFO  DataDrivenTests:32 - Entering email: abc123@gmail.com
+2025-01-05 12:00:46 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 12:00:46 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:00:47 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:00:47 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:00:47 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:00:47 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:00:48 INFO  DataDrivenTests:32 - Entering email: 
+2025-01-05 12:00:48 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 12:00:48 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:00:59 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [27187d551785fa65c93e27f12af24b17, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62922}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62922/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27187d551785fa65c93e27f12af24b17
+2025-01-05 12:00:59 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:01:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 12:01:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:01:37 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:01:37 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:01:37 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:01:37 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:01:37 INFO  DataDrivenTests:32 - Entering email: admin@myshopp.com
+2025-01-05 12:01:37 INFO  DataDrivenTests:35 - Entering password: admin123
+2025-01-05 12:01:37 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:01:38 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:01:38 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:01:38 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:01:38 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:01:39 INFO  DataDrivenTests:32 - Entering email: admin@mycart.com
+2025-01-05 12:01:39 INFO  DataDrivenTests:35 - Entering password: admin@123
+2025-01-05 12:01:39 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:01:40 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:01:40 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:01:40 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:01:40 INFO  DataDrivenTests:32 - Entering email: xyz@gmail.com
+2025-01-05 12:01:41 INFO  DataDrivenTests:35 - Entering password: qwerty@123
+2025-01-05 12:01:41 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:01:51 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9887373bbf70c4bb7d568f2d8a4d2acb, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63008}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63008/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9887373bbf70c4bb7d568f2d8a4d2acb
+2025-01-05 12:01:51 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:01:51 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:01:51 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:01:51 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:01:52 INFO  DataDrivenTests:32 - Entering email: pd0d9@yahoo.com
+2025-01-05 12:01:52 INFO  DataDrivenTests:35 - Entering password: xyz
+2025-01-05 12:01:52 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:02:03 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9887373bbf70c4bb7d568f2d8a4d2acb, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63008}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63008/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9887373bbf70c4bb7d568f2d8a4d2acb
+2025-01-05 12:02:03 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:02:03 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:02:03 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:02:03 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:02:03 INFO  DataDrivenTests:32 - Entering email: abc123@gmail.com
+2025-01-05 12:02:03 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 12:02:04 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:02:05 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:02:05 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:02:05 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:02:05 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:02:05 INFO  DataDrivenTests:32 - Entering email: 
+2025-01-05 12:02:05 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 12:02:05 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:02:16 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9887373bbf70c4bb7d568f2d8a4d2acb, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63008}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63008/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9887373bbf70c4bb7d568f2d8a4d2acb
+2025-01-05 12:02:16 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:02:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 12:02:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:02:45 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:02:45 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:02:45 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:02:45 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:02:46 INFO  DataDrivenTests:32 - Entering email: admin@myshopp.com
+2025-01-05 12:02:46 INFO  DataDrivenTests:35 - Entering password: admin123
+2025-01-05 12:02:46 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:02:47 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:02:47 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:02:47 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:02:47 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:02:47 INFO  DataDrivenTests:32 - Entering email: admin@mycart.com
+2025-01-05 12:02:47 INFO  DataDrivenTests:35 - Entering password: admin@123
+2025-01-05 12:02:48 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:02:48 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:02:48 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:02:49 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:02:49 INFO  DataDrivenTests:32 - Entering email: xyz@gmail.com
+2025-01-05 12:02:49 INFO  DataDrivenTests:35 - Entering password: qwerty@123
+2025-01-05 12:02:49 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:03:00 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6966170053e01a48179ab0768c530c51, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63092}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63092/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6966170053e01a48179ab0768c530c51
+2025-01-05 12:03:00 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:03:00 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:03:00 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:03:00 INFO  DataDrivenTests:32 - Entering email: pd0d9@yahoo.com
+2025-01-05 12:03:01 INFO  DataDrivenTests:35 - Entering password: xyz
+2025-01-05 12:03:01 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:03:11 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6966170053e01a48179ab0768c530c51, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63092}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63092/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6966170053e01a48179ab0768c530c51
+2025-01-05 12:03:12 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:03:12 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:03:12 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:03:12 INFO  DataDrivenTests:32 - Entering email: abc123@gmail.com
+2025-01-05 12:03:12 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 12:03:12 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:03:13 INFO  DataDrivenTests:75 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:03:13 INFO  DataDrivenTests:19 - ****************DataDrivenTests started******************
+2025-01-05 12:03:13 INFO  DataDrivenTests:24 - Clicking My Account...
+2025-01-05 12:03:13 INFO  DataDrivenTests:27 - Clicking Login...
+2025-01-05 12:03:14 INFO  DataDrivenTests:32 - Entering email: 
+2025-01-05 12:03:14 INFO  DataDrivenTests:35 - Entering password: test@123
+2025-01-05 12:03:14 INFO  DataDrivenTests:38 - Clicking Login button...
+2025-01-05 12:03:25 INFO  DataDrivenTests:72 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6966170053e01a48179ab0768c530c51, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63092}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63092/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6966170053e01a48179ab0768c530c51
+2025-01-05 12:30:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\AppData\Local\Temp\testng-eclipse-196951777\testng-customsuite.xml"
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\AppData\Local\Temp\testng-eclipse-196951777\testng-customsuite.xml
+
+2025-01-05 12:30:42 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-01-05 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@63a5d002: 58 ms
+2025-01-05 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@72889280: 16 ms
+2025-01-05 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1d81e101: 13 ms
+2025-01-05 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d868997: 7 ms
+2025-01-05 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c0da600: 5 ms
+2025-01-05 12:30:42 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d4602a: 0 ms
+2025-01-05 12:37:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\HP\ECommerce\MyStore\Master.xml"
+2025-01-05 12:37:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\HP\ECommerce\MyStore\Master.xml
+
+2025-01-05 12:37:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:08 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-05 12:37:09 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-05 12:37:09 INFO  DataDrivenTests:21 - ****************DataDrivenTests started******************
+2025-01-05 12:37:09 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 12:37:09 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 12:37:09 INFO  DataDrivenTests:33 - Entering email: admin@myshopp.com
+2025-01-05 12:37:09 INFO  DataDrivenTests:36 - Entering password: admin123
+2025-01-05 12:37:09 INFO  DataDrivenTests:39 - Clicking Login button...
+2025-01-05 12:37:10 INFO  DataDrivenTests:76 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:37:10 INFO  DataDrivenTests:21 - ****************DataDrivenTests started******************
+2025-01-05 12:37:10 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 12:37:10 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 12:37:11 INFO  DataDrivenTests:33 - Entering email: admin@mycart.com
+2025-01-05 12:37:11 INFO  DataDrivenTests:36 - Entering password: admin@123
+2025-01-05 12:37:11 INFO  DataDrivenTests:39 - Clicking Login button...
+2025-01-05 12:37:12 INFO  DataDrivenTests:21 - ****************DataDrivenTests started******************
+2025-01-05 12:37:12 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 12:37:12 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 12:37:12 INFO  DataDrivenTests:33 - Entering email: xyz@gmail.com
+2025-01-05 12:37:12 INFO  DataDrivenTests:36 - Entering password: qwerty@123
+2025-01-05 12:37:12 INFO  DataDrivenTests:39 - Clicking Login button...
+2025-01-05 12:37:23 INFO  DataDrivenTests:73 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3688b5617b5c087d2cbf259dbbe1687, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50607}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50607/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3688b5617b5c087d2cbf259dbbe1687
+2025-01-05 12:37:23 INFO  DataDrivenTests:76 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:37:23 INFO  DataDrivenTests:21 - ****************DataDrivenTests started******************
+2025-01-05 12:37:23 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 12:37:23 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 12:37:24 INFO  DataDrivenTests:33 - Entering email: pd0d9@yahoo.com
+2025-01-05 12:37:24 INFO  DataDrivenTests:36 - Entering password: xyz
+2025-01-05 12:37:24 INFO  DataDrivenTests:39 - Clicking Login button...
+2025-01-05 12:37:35 INFO  DataDrivenTests:73 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3688b5617b5c087d2cbf259dbbe1687, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50607}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50607/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3688b5617b5c087d2cbf259dbbe1687
+2025-01-05 12:37:35 INFO  DataDrivenTests:76 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:37:35 INFO  DataDrivenTests:21 - ****************DataDrivenTests started******************
+2025-01-05 12:37:35 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 12:37:35 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 12:37:35 INFO  DataDrivenTests:33 - Entering email: abc123@gmail.com
+2025-01-05 12:37:36 INFO  DataDrivenTests:36 - Entering password: test@123
+2025-01-05 12:37:36 INFO  DataDrivenTests:39 - Clicking Login button...
+2025-01-05 12:37:37 INFO  DataDrivenTests:76 - ****************** DataDrivenTests completed!******************
+2025-01-05 12:37:37 INFO  DataDrivenTests:21 - ****************DataDrivenTests started******************
+2025-01-05 12:37:37 INFO  DataDrivenTests:26 - Clicking My Account...
+2025-01-05 12:37:37 INFO  DataDrivenTests:29 - Clicking Login...
+2025-01-05 12:37:37 INFO  DataDrivenTests:33 - Entering email: 
+2025-01-05 12:37:37 INFO  DataDrivenTests:36 - Entering password: test@123
+2025-01-05 12:37:37 INFO  DataDrivenTests:39 - Clicking Login button...
+2025-01-05 12:37:48 INFO  DataDrivenTests:73 - no such element: Unable to locate element: {"method":"xpath","selector":"//h2[text()='My Account']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a3688b5617b5c087d2cbf259dbbe1687, findElement {value=//h2[text()='My Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\HP\AppData\Local\T...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50607}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50607/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a3688b5617b5c087d2cbf259dbbe1687
+2025-01-05 12:37:48 INFO  DataDrivenTests:76 - ****************** DataDrivenTests completed!******************
