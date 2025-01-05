@@ -1,2 +1,2 @@
 # opencart
-opencart is a ecommerce website
+Automated a ecommerce website using Selenium, JAVA and TestNG.
